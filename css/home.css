@@ -1,0 +1,29 @@
+*{margin:0;padding:0;}
+body{	background-color: LightSkyBlue ; text-align:center;}
+ul.drop a{	text-decoration:none;}
+ul.drop ul{position:relative;}
+ul.drop li{
+	display:inline;
+	padding:20px;
+	font-size:20px;
+	margin:10px;
+	padding:5px;}
+.profile_name{text-align:left; font-family:Comic Sans MS,cursive;font-size:30px;font-style:italic;}
+a:hover{color:white;
+	background-color:DarkSlateGray ;
+	padding:10px;
+	border-radius:30px;}
+#menu_bar{text-align:center;margin-left:120px;}
+#image{margin-left:200px;cursor:pointer;}
+p{font-size:20px;}
+#info{text-align:left;margin-left: 530px;}
+.p_education,.p_achhievement{margin-left:15px;}
+#education_header{text-align: left;margin-left:400px;margin-top:15px;}
+#achie_header{text-align: left;margin-left:440px;margin-top:15px;}
+.juniour_header,.achievement_header,.experience_header{padding:15px;}
+.footer{text-align:left;margin-left: 530px;}
+ul.drop a#current{color:PaleVioletRed;}
+.link{padding:10px;}
+.the_footer{font-size:20px;}
+.the_foot{ clear:both;}
+.foot{text-align:left;margin-left:200px;}
